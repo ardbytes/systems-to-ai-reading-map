@@ -1,6 +1,6 @@
-# Zero to Pro Engineer
+# Systems to AI: A Reading Map
 
-**112 topics from 8 of the most widely read engineering books, in the order you'd learn them.**
+**112 topics from 8 well-known engineering books, in a suggested reading order.**
 
 From how a CPU runs your code, to operating systems, distributed data, system design, reliability, ML systems, and building and shipping LLMs.
 

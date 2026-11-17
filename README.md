@@ -15,22 +15,22 @@ Every topic below is a real chapter or section of its book.
 
 ## The 14 books
 
-| # | Stage | Book | Author(s) | Free? |
-|---|---|---|---|---|
-| 1 | The Machine | [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/3e/about.html) (3rd ed.) | Randal E. Bryant, David R. O'Hallaron | — |
-| 2 | The Operating System | [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) | Remzi & Andrea Arpaci-Dusseau | Free online, by the authors |
-| 3 | Networking | [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) (9th ed.) | James F. Kurose, Keith W. Ross | — |
-| 4 | Data Systems | [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/) (2nd ed.) | Martin Kleppmann, Chris Riccomini | — |
-| 5 | System Design | [System Design Interview: An Insider's Guide, Vol. 1](https://bytebytego.com/) | Alex Xu | — |
-| 6 | Services & APIs | [Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/) (2nd ed.) | Sam Newman | — |
-| 7 | Containers | [Docker Deep Dive](https://leanpub.com/dockerdeepdive) | Nigel Poulton | — |
-| 8 | Orchestration | [Kubernetes: Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/) (3rd ed.) | Brendan Burns, Joe Beda, Kelsey Hightower, Lachlan Evenson | — |
-| 9 | Infrastructure as Code | [Terraform: Up & Running](https://www.terraformupandrunning.com/) (3rd ed.) | Yevgeniy Brikman | — |
-| 10 | Reliability | [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) | Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy (Google) | Free online, by Google |
-| 11 | Math for ML | [Deep Learning](https://www.deeplearningbook.org/) | Ian Goodfellow, Yoshua Bengio, Aaron Courville | Free to read online, by the authors |
-| 12 | ML Systems | [Designing Machine Learning Systems](https://github.com/chiphuyen/dmls-book) | Chip Huyen | Chapter summaries & resources on the author's GitHub |
-| 13 | LLMs from Scratch | [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | Sebastian Raschka | All code & notebooks free on the author's GitHub |
-| 14 | AI Engineering | [AI Engineering: Building Applications with Foundation Models](https://github.com/chiphuyen/aie-book) | Chip Huyen | Table of contents & resources on the author's GitHub |
+| # | Stage | Book | Author(s) |
+|---|---|---|---|
+| 1 | The Machine | [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/3e/about.html) (3rd ed.) | Randal E. Bryant, David R. O'Hallaron |
+| 2 | The Operating System | [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) | Remzi & Andrea Arpaci-Dusseau |
+| 3 | Networking | [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) (9th ed.) | James F. Kurose, Keith W. Ross |
+| 4 | Data Systems | [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/) (2nd ed.) | Martin Kleppmann, Chris Riccomini |
+| 5 | System Design | [System Design Interview: An Insider's Guide, Vol. 1](https://bytebytego.com/) | Alex Xu |
+| 6 | Services & APIs | [Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/) (2nd ed.) | Sam Newman |
+| 7 | Containers | [Docker Deep Dive](https://leanpub.com/dockerdeepdive) | Nigel Poulton |
+| 8 | Orchestration | [Kubernetes: Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/) (3rd ed.) | Brendan Burns, Joe Beda, Kelsey Hightower, Lachlan Evenson |
+| 9 | Infrastructure as Code | [Terraform: Up & Running](https://www.terraformupandrunning.com/) (3rd ed.) | Yevgeniy Brikman |
+| 10 | Reliability | [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) | Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy (Google) |
+| 11 | Math for ML | [Deep Learning](https://www.deeplearningbook.org/) | Ian Goodfellow, Yoshua Bengio, Aaron Courville |
+| 12 | ML Systems | [Designing Machine Learning Systems](https://github.com/chiphuyen/dmls-book) | Chip Huyen |
+| 13 | LLMs from Scratch | [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | Sebastian Raschka |
+| 14 | AI Engineering | [AI Engineering: Building Applications with Foundation Models](https://github.com/chiphuyen/aie-book) | Chip Huyen |
 
 ## Stage 1 · The Machine
 
